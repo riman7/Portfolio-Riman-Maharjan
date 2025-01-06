@@ -173,6 +173,35 @@ body{
     background-color: var(--background-color);
     color: var(--body-text-color);
 }
+
+
+/* Width and height of the scrollbar */
+::-webkit-scrollbar {
+    width: 5px; 
+  }
+  
+  /* Track of the scrollbar */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f138; 
+  }
+  
+  /* Thumb (the draggable part of the scrollbar) */
+  ::-webkit-scrollbar-thumb {
+    background: #bfbfbf; 
+    border-radius: 5px; 
+  }
+  
+  /* Thumb hover effect */
+  ::-webkit-scrollbar-thumb:hover {
+    /* background: #555;  */
+  }
+    /* Applies to the whole element */
+    /* html {
+        scrollbar-width: thin; 
+        scrollbar-color: #888 #f1f1f1; 
+    } */
+    
+
 body h2{ 
     font-size: 5rem;
     color: var(--theme-color);
