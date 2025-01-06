@@ -209,8 +209,8 @@ body h2{
 /* dark Theme Icon */
 #dark-theme-icon{
     position: fixed;
-    z-index: 9;
-    right: 2rem;        top: 4rem;
+    z-index: 100;
+    right: 2rem;        top: 5rem;
     width: 5rem;
     cursor: pointer;
     opacity: 40%;
