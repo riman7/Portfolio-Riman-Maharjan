@@ -24,7 +24,7 @@ Feel free to reach out via:
 - 🌐 Website: [riman.com.np](https://riman.com.np)  
 - 📧 Email: rimanmaharjan7@gmail.com
 - 🏆 LinkedIn: [![LinkedIn](https://link-to-linkedin-logo-image)](https://www.linkedin.com/in/rimanmaharjan7/)
--  [![Instagram](https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png)] Instagram: [https://www.instagram.com/riman_maharjan7/]
-- 
+-  <a href="https://www.instagram.com/riman_maharjan7/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" width="30" height="30" alt="Instagram" /></a> Instagram
+
 ---
 
