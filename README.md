@@ -23,7 +23,8 @@ The site is live at [riman.com.np](https://riman.com.np). It is deployed using c
 Feel free to reach out via:  
 - 🌐 Website: [riman.com.np](https://riman.com.np)  
 - 📧 Email: rimanmaharjan7@gmail.com 
-- 🏆 LinkedIn: [https://www.linkedin.com/in/rimanmaharjan7/](#)  
+- 🏆 LinkedIn: [https://www.linkedin.com/in/rimanmaharjan7/](#)
+- Instagram: [https://www.instagram.com/riman_maharjan7/]
 
 ---
 
