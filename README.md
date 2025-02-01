@@ -1,6 +1,8 @@
 # 📌 Riman's Portfolio  
 **Live at:** [riman.com.np](https://riman.com.np)  
 
+---
+
 ## 🚀 About the Project  
 This is my personal portfolio website showcasing my skills, projects, and experience. It serves as an online resume and a platform for potential clients, employers, and collaborators to learn more about my work.  
 
